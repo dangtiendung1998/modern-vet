@@ -84,4 +84,4 @@ const getDriver = () => {
     return driver;
 };
 
-module.exports = {getDriver, buildDriver};
+export default  {getDriver, buildDriver};
